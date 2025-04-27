@@ -1,2 +1,2 @@
-# Diwali-Sales-Analyssis 
-This is a Python end to end Project!
+# Python_Diwali_Sales_Analyssis 
+python project for beginners- Analyze Diwali sales data to improve customer experience and sales
