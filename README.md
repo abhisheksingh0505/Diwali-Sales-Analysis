@@ -143,6 +143,6 @@ Contributions are welcome! Here's how you can help:
 
 **Found this project helpful? Give it a ⭐!**
 
- • [Request Feature](https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/)) • [View Demo]((https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/))
+ • [Request Feature](https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/)) 
 
 </div>
