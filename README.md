@@ -123,14 +123,10 @@ Contributions are welcome! Here's how you can help:
 - Advanced statistical analysis
 - Interactive dashboard development
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact & Support
 
 - **Author**: [Abhishek Singh]
-- **Email**: your.email@example.com
+- **Email**: [singh050530@gmail.com]
 - **LinkedIn**: [www.linkedin.com/in/abhishek-singh-139181279]
 - **Project Link**: [[https://github.com/abhisheksingh05/diwali-sales-analysis](https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/)]
 
