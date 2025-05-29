@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 > A comprehensive data analysis project exploring customer behavior and sales patterns during the Diwali festival season using Python and advanced data visualization techniques.
 
@@ -147,6 +147,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Found this project helpful? Give it a ⭐!**
 
-[Report Bug](https://github.com/ahisheksingh0505/diwali-sales-analysis/issues) • [Request Feature](https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/)) • [View Demo]((https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/))
+ • [Request Feature](https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/)) • [View Demo]((https://github.com/abhisheksingh0505/Diwali-Sales-Analysis/))
 
 </div>
